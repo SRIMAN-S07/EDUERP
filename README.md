@@ -27,3 +27,42 @@ EduERP is a full-stack MERN application designed to streamline college administr
 - MongoDB
 
 ## Screenshots
+
+### Login Page
+![Login Page](screenshots/login-page.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### Student Management
+![Student Management](screenshots/student-management.png)
+
+### Add Staff
+![Add Staff](screenshots/add-staff.png)
+
+### Attendance Management
+![Attendance Management](screenshots/attendance-management.png)
+
+### Fees Management
+![Fees Management](screenshots/fees-management.png)
+
+### Student Dashboard
+![Student Dashboard](screenshots/student-dashboard.png)
+
+### Leave Request
+![Leave Request](screenshots/leave-request.png)
+
+### Leave Approval
+![Leave Approval](screenshots/leave-approval.png)
+
+### Student Attendance History
+![Student Attendance History](screenshots/student-attendance-history.png)
+
+### Staff Attendance Management
+![Staff Attendance Management](screenshots/staff-attendance-management.png)
+
+### Staff Fees Management
+![Staff Fees Management](screenshots/staff-fees-management.png)
+
+### Staff Dashboard
+![Staff Dashboard](screenshots/staff-dashboard.png)
