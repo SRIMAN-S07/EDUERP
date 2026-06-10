@@ -1,26 +1,29 @@
 # EduERP - College Management System
 
-A full-stack MERN application for managing students, attendance, fees, and leave requests.
+EduERP is a full-stack MERN application designed to streamline college administration by managing students, attendance, fees, and leave requests through dedicated Student and Staff portals.
 
-Features:
-✅ JWT Authentication
-✅ Student Dashboard
-✅ Staff Dashboard
-✅ Attendance Management
-✅ Fees Management
-✅ Leave / OD Approval Workflow
-✅ Department-based Access Control
+## Features
 
-Tech Stack:
+- JWT Authentication & Authorization
+- Student Dashboard
+- Staff Dashboard
+- Attendance Management
+- Fees Management
+- Leave / OD Request Workflow
+- Leave Approval System
+- Department-wise Access Control
+- REST API Integration
+
+## Tech Stack
+
+### Frontend
 - React.js
+
+### Backend
 - Node.js
 - Express.js
+
+### Database
 - MongoDB
 
-Screenshots:
-(Add screenshots here)
-
-Future Enhancements:
-- Dashboard Analytics
-- Search & Filter
-- PDF Export
+## Screenshots
